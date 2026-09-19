@@ -1,2 +1,3 @@
-# Student-Academic-Performance-Prediction
-A machine learning project that analyzes student academic performance and predicts examination scores using data preprocessing, exploratory data analysis, Random Forest Regression, and an interactive Streamlit dashboard.
+Run: pip install -r requirements.txt
+Then: streamlit run app.py
+The app also supports uploading the corresponding CSV from the sidebar.
